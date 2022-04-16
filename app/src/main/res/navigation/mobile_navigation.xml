@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_browse">
+
+    <fragment
+        android:id="@+id/navigation_saved"
+        android:name="dps924.assignment4.ui.saved.SavedFragment"
+        android:label="@string/nav_saved"
+        tools:layout="@layout/fragment_saved" />
+
+    <fragment
+        android:id="@+id/navigation_browse"
+        android:name="dps924.assignment4.ui.browse.BrowseFragment"
+        android:label="@string/nav_browse"
+        tools:layout="@layout/fragment_browse" />
+
+    <fragment
+        android:id="@+id/navigation_create"
+        android:name="dps924.assignment4.ui.create.CreateFragment"
+        android:label="@string/nav_create"
+        tools:layout="@layout/fragment_create" />
+</navigation>

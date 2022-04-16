@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">DPS 924 - Assignment 4</string>
+    <string name="frontend_title">Recipe Browser</string>
+
+    <string name="nav_browse">Browse</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_create">Create</string>
+    <string name="title_activity_recipe_view">RecipeView</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="searchQuery">SEARCH_TEXT</string>
+    <string name="recipeID">RECIPE_ID</string>
+
+    <string name="search_placeholder">Recipes, ingredients, or diets</string>
+    <string name="browse_title">A Perfect Meal Starts Today</string>
+    <string name="browse_subtitle">Powered by <a href="https://spoonacular.com/food-api">Spoonacular</a></string>
+    <string name="browse_description">
+        Search, Save, and Edit hundreds of curated online recipes.<br />
+        Search by any term, ingredient, or ideal meal and simply<br />
+        browse until your heart\'s content.\nPick any recipe, any time,<br />
+        any place, and save it for later, even offline!
+    </string>
+    <string name="browse_motto">Good Food Won\'t Find Itself!</string>
+
+    <string name="browse_admin_title">Admin Tools</string>
+    <string name="browse_admin_random">Random Recipe</string>
+    <string name="browse_admin_api">Print API Stats</string>
+    <string name="browse_admin_clear">Clear Storage</string>
+
+    <string name="next">Next</string>
+    <string name="back">Return</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="recipe_saved">Saved Recipe!</string>
+
+    <string name="recipe_stats_title">General Overview</string>
+    <string name="recipe_stats_likes_title">Likes:</string>
+    <string name="recipe_stats_rating_title">Rating:</string>
+    <string name="recipe_stats_wwpoints_title">Weight Watchers Smart Points:</string>
+
+    <string name="recipe_stats_price_title">Pricing:</string>
+    <string name="recipe_stats_servings_title">Serves:</string>
+
+    <string name="recipe_stats_preptime_title">Prep Time:</string>
+    <string name="recipe_stats_cooktime_title">Cook Time:</string>
+    <string name="minutes">minutes</string>
+
+    <string name="recipe_credits_title">Credits</string>
+
+    <string name="recipe_view_ingredients">View Ingredients</string>
+
+    <string name="recipe_diets_title">Diet Information</string>
+    <string name="recipe_diets_vegetarian_title">Vegetarian Safe:</string>
+    <string name="recipe_diets_vegan_title">Vegan Safe:</string>
+    <string name="recipe_diets_gluten_title">Gluten Free:</string>
+    <string name="recipe_diets_dairy_title">Dairy Safe:</string>
+    <string name="recipe_diets_sustainable_title">Sustainable:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="recipe_instructions_title">Instructions</string>
+    <string name="recipe_notes_title">Notes</string>
+    <string name="summary">Summary</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="oops">Oops!</string>
+    <string name="error_no_saves">Hmmm... Seems you don\'t have any recipes saved. Try saving one and coming back here!</string>
+</resources>
